@@ -8,6 +8,10 @@
   <artifactId>ex1-hello-jpa</artifactId>
   <version>1.0-0</version>
   <name>ex1-hello-jpa</name>
+  <properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+  </properties>
 
   <dependencies>
     <!-- JPA 하이버네이트 -->

@@ -1,8 +1,12 @@
 package helloJPA;
 
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
 public class JpaMain {
     public static void main(String[] args) {
-        //메인
-        
+
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("hello");
+
     }
 }
