@@ -1,5 +1,5 @@
 # [inflearn JPA & Spring Boot](https://www.inflearn.com/roadmaps/149)
-"김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵"을 통해 공부하는 곳입니다.
+"김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵" 강의를 통해 공부하는 곳입니다.
 
 ## 목차
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
